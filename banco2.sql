@@ -60,6 +60,8 @@ create table reservas(
 
 insert into reservas values (null,'2023-08-10','19:00',1,1);
 
+select * from hoteis;
+
 
 
 
