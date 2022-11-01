@@ -1,0 +1,7 @@
+
+- Montar todas as mídias
+- Imagens (No corpo da página e Logo)
+- Título e Subtítulo 
+- Formulário de contato (https://cellulanimal.com.br/contato)
+- Menu
+- Formatação do texto e margens
